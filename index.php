@@ -80,7 +80,10 @@ include 'funciones.php';
       
         <div class="col s12 m2 l2"></div>
         <div class="col s12 m8 l8">
-          <h1 class="center">Servicios</h1>
+        <h1 class="center">Historia</h1>
+        <p>Noricarme es una empresa familiar que fue creada en el año 2015 el 3 de Junio, es una empresa encargada en el tratamiento de agua para su consumo diario y a nivel empresarial también, nuestra empresa cuenta con varias sucursales en varias partes de la región, como lo es en Maracaibo, en San Francisco y en Cabimas, la empresa funciona de manera que la población pueda acceder al agua potable para consumo de una manera rápida y eficiente, los mejores productos de purificación son usados en el tratamiento del agua, tenemos mucha confianza por parte de nuestro consumidores.</p>
+          <img src="img/agua.jpg" class="responsive-img center" style="text-align: center;">
+          <h2 class="center">Servicios</h2>
           <div class="divider"></div>
           <br>
 

@@ -23,7 +23,7 @@
         <div>
             <nav>
                 <div class="nav-wrapper blue darken-3">
-                    <a href="#!" class="brand-logo center">Noricarmen</a>
+                    <a href="#!" class="brand-logo center"><i class="material-icons">water_drop</i>Noricarmen</a>
                 </div>
             </nav>
         </div>
