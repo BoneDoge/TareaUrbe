@@ -11,7 +11,7 @@ include 'funciones.php';
     <div id="modal1" class="modal">
       <div class="modal-content">
         <h4>Tipo de acción</h4>
-        <p>Costo: 3$</p>
+        <p>Costo: 2$</p>
         <form class="card-content" action="resultado.php" method="post">
           <div class="input-field ">
             <input maxlength="30" required type="text" id="nombre" name="nombre" class="validate" onkeypress="return validarNombres(event)">
